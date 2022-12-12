@@ -2,7 +2,7 @@
 
 
 
- 🔭 I'm Natyra DeGraffenreid,I’m currently a student at Level Up In Tech!
+ 🔭 I'm Natyra,currently a student at Level Up In Tech!
  
  🌱 I’m currently studying for DevOps Engineer!
  
