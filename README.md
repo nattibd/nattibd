@@ -10,5 +10,5 @@
  
  📫 How to reach me: https://www.linkedin.com/in/natyra-d-6974011a9/
  
- [![Linkedin Badge](https://img.shields.io/badge/-Natyra%20DeGraffenreid-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://(https://www.linkedin.com/in/natyra-d-6974011a9/)/)]
+ ![Linkedin Badge](https://img.shields.io/badge/-Natyra%20DeGraffenreid-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/natyra-d-6974011a9/)/)
 
