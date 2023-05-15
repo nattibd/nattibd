@@ -2,9 +2,9 @@
 
 
 
- 🔭 I'm Natyra,currently a student at Level Up In Tech!
+ 🔭 I'm Natyra
  
- 🌱 I’m currently studying for DevOps Engineer!
+ 🌱 DevOps Engineer
  
  👯 I’m looking to collaborate on Python/HTML/CSS/Javascript.
  
